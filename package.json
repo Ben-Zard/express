@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm install",
+    "build": "tsc",
     "serve": "node dist/index.js"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
