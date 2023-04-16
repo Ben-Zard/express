@@ -11,7 +11,6 @@ const words: string[] = [
   "green",
   "happy",
   "zebra"
-  // Add more 5-letter words here
 ];
 
 function getRandomWord(): string {
